@@ -32,9 +32,6 @@ namespace Tibia_Bot_Project
 
         private void InitializeComponent()
         {
-            this.Text = "LogiXBot Auto Healer";
-            this.Icon = Tibia_Bot_Project.Properties.Resources.LogiXBot;
-
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(LogiXBot));
             this.hp_label = new System.Windows.Forms.Label();
             this.mana_label = new System.Windows.Forms.Label();
@@ -62,11 +59,11 @@ namespace Tibia_Bot_Project
             // 
             this.hp_label.AutoSize = true;
             this.hp_label.ForeColor = System.Drawing.Color.Red;
-            this.hp_label.Location = new System.Drawing.Point(44, 44);
+            this.hp_label.Location = new System.Drawing.Point(44, 45);
             this.hp_label.Name = "hp_label";
-            this.hp_label.Size = new System.Drawing.Size(10, 13);
+            this.hp_label.Size = new System.Drawing.Size(45, 13);
             this.hp_label.TabIndex = 4;
-            this.hp_label.Text = " ";
+            this.hp_label.Text = "Hp: ???";
             // 
             // mana_label
             // 
@@ -74,9 +71,9 @@ namespace Tibia_Bot_Project
             this.mana_label.ForeColor = System.Drawing.Color.Blue;
             this.mana_label.Location = new System.Drawing.Point(44, 82);
             this.mana_label.Name = "mana_label";
-            this.mana_label.Size = new System.Drawing.Size(10, 13);
+            this.mana_label.Size = new System.Drawing.Size(61, 13);
             this.mana_label.TabIndex = 5;
-            this.mana_label.Text = " ";
+            this.mana_label.Text = " Mana: ???";
             // 
             // label1
             // 
@@ -246,7 +243,9 @@ namespace Tibia_Bot_Project
             this.Controls.Add(this.label1);
             this.Controls.Add(this.mana_label);
             this.Controls.Add(this.hp_label);
+            this.Icon = global::Tibia_Bot_Project.Properties.Resources.LogiXBot;
             this.Name = "LogiXBot";
+            this.Text = "LogiXBot Auto Healer";
             this.Load += new System.EventHandler(this.Form1_Load_1);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
