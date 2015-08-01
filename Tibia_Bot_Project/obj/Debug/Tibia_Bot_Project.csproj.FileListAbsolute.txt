@@ -1,0 +1,9 @@
+c:\users\lanfear\documents\visual studio 2013\Projects\Tibia_Bot_Project\Tibia_Bot_Project\bin\Debug\Tibia_Bot_Project.exe.config
+c:\users\lanfear\documents\visual studio 2013\Projects\Tibia_Bot_Project\Tibia_Bot_Project\bin\Debug\Tibia_Bot_Project.exe
+c:\users\lanfear\documents\visual studio 2013\Projects\Tibia_Bot_Project\Tibia_Bot_Project\bin\Debug\Tibia_Bot_Project.pdb
+c:\users\lanfear\documents\visual studio 2013\Projects\Tibia_Bot_Project\Tibia_Bot_Project\obj\Debug\Tibia_Bot_Project.csprojResolveAssemblyReference.cache
+c:\users\lanfear\documents\visual studio 2013\Projects\Tibia_Bot_Project\Tibia_Bot_Project\obj\Debug\Tibia_Bot_Project.Properties.Resources.resources
+c:\users\lanfear\documents\visual studio 2013\Projects\Tibia_Bot_Project\Tibia_Bot_Project\obj\Debug\Tibia_Bot_Project.csproj.GenerateResource.Cache
+c:\users\lanfear\documents\visual studio 2013\Projects\Tibia_Bot_Project\Tibia_Bot_Project\obj\Debug\Tibia_Bot_Project.exe
+c:\users\lanfear\documents\visual studio 2013\Projects\Tibia_Bot_Project\Tibia_Bot_Project\obj\Debug\Tibia_Bot_Project.pdb
+c:\users\lanfear\documents\visual studio 2013\Projects\Tibia_Bot_Project\Tibia_Bot_Project\obj\Debug\Tibia_Bot_Project.LogiXBot.resources
