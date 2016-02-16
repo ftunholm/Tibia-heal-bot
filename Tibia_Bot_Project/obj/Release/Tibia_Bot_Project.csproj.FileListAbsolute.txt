@@ -6,3 +6,12 @@ C:\Users\LanfeaR\Documents\Visual Studio 2013\Projects\Tibia_Bot_Project\Tibia_B
 C:\Users\LanfeaR\Documents\Visual Studio 2013\Projects\Tibia_Bot_Project\Tibia_Bot_Project\obj\Release\Tibia_Bot_Project.csproj.GenerateResource.Cache
 C:\Users\LanfeaR\Documents\Visual Studio 2013\Projects\Tibia_Bot_Project\Tibia_Bot_Project\obj\Release\Tibia_Bot_Project.exe
 C:\Users\LanfeaR\Documents\Visual Studio 2013\Projects\Tibia_Bot_Project\Tibia_Bot_Project\obj\Release\Tibia_Bot_Project.pdb
+C:\Users\LogiX\Documents\GitHub\Tibia-heal-bot\Tibia_Bot_Project\bin\Release\Tibia_Bot_Project.exe.config
+C:\Users\LogiX\Documents\GitHub\Tibia-heal-bot\Tibia_Bot_Project\obj\Release\Tibia_Bot_Project.exe
+C:\Users\LogiX\Documents\GitHub\Tibia-heal-bot\Tibia_Bot_Project\obj\Release\Tibia_Bot_Project.pdb
+C:\Users\LogiX\Documents\GitHub\Tibia-heal-bot\Tibia_Bot_Project\bin\Release\Tibia_Bot_Project.exe
+C:\Users\LogiX\Documents\GitHub\Tibia-heal-bot\Tibia_Bot_Project\bin\Release\Tibia_Bot_Project.pdb
+C:\Users\LogiX\Documents\GitHub\Tibia-heal-bot\Tibia_Bot_Project\obj\Release\Tibia_Bot_Project.LogiXBot.resources
+C:\Users\LogiX\Documents\GitHub\Tibia-heal-bot\Tibia_Bot_Project\obj\Release\Tibia_Bot_Project.Properties.Resources.resources
+C:\Users\LogiX\Documents\GitHub\Tibia-heal-bot\Tibia_Bot_Project\obj\Release\Tibia_Bot_Project.csproj.GenerateResource.Cache
+C:\Users\LogiX\Documents\GitHub\Tibia-heal-bot\Tibia_Bot_Project\obj\Release\Tibia_Bot_Project.csprojResolveAssemblyReference.cache

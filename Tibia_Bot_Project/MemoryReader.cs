@@ -31,11 +31,11 @@ namespace Tibia_Bot_Project
         private int manaValue;
         private int hpValue;
 
-        private Int32 currentHpAddr = 0x6D2030;
-        private Int32 maxHpAddr = 0x6D2024;
-        private Int32 currentManaAddr = 0x5346A8;
-        private Int32 maxManaAddr = 0x53467C;
-        private Int32 xorAddr = 0x534678;
+        private Int32 currentHpAddr = 0xAD2030 - 0x400000;
+        private Int32 maxHpAddr = 0xAD2024 - 0x400000;
+        private Int32 currentManaAddr = 0x934688 - 0x400000;
+        private Int32 maxManaAddr = 0x93465C - 0x400000;
+        private Int32 xorAddr = 0x934658 - 0x400000;
 
         private double manaPercentInput;
         private double hpPercentLightHealInput;
@@ -72,7 +72,6 @@ namespace Tibia_Bot_Project
 
             int bytesRead = 0;
             byte[] buffer = new byte[4];
-
 
             ReadProcessMemory((int)handle, xorAddr + baseAddress, buffer, buffer.Length, ref bytesRead);
             xor = BitConverter.ToInt32(buffer, 0);
